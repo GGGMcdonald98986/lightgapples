@@ -1,0 +1,5 @@
+name: lightgoldenapple
+version: '1.10'
+main: net.com.lightgoldenapple.Lightgoldenapple
+api-version: '1.21'
+description: This Plugin add's a light golden apple that is craftable.
